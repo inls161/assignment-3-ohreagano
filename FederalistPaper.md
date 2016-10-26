@@ -1,15 +1,16 @@
-Reagan Cline
+---
+title: Federalist Paper
+author: Reagan Cline
+date: April 29.2015
+---
 
-POLI 409
-
-Dr. Michael MacKuen
+Written for POLI 409 with Dr. Michael MacKuen
 
 ![](http://media.boingboing.net/wp-content/uploads/2011/08/join-or-die.jpg)
 
 # The Federalist:
 
-## An Esssay 
-### Written in Favor of the
+## An Esssay Written in Favor of the
 ## New Constitution
 
 ### As Agreed Upon by the  
