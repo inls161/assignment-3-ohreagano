@@ -10,7 +10,7 @@ Written for POLI 409 with Dr. Michael MacKuen
 
 # The Federalist:
 
-## An Esssay Written in Favor of the
+## An Essay Written in Favor of the
 ## New Constitution
 
 ### As Agreed Upon by the  
